@@ -5956,54 +5956,415 @@ MiB Mem :(B[m[39;49m[1m    844.0 (B[m[39;49mtotal,(B[m[39;49m[1m    1
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ 1  ls
+    2  mkdir Music
+    3  mkdir Movies
+    4  mkdir Documents
+    5  ls
+    6  cd Music/
+    7  ls
+    8  mkdir A R Rehman
+    9  ls
+   10  cd A R Rahman/
+   11  mkdir A R Rahman
+   12  ls
+   13  cd A R Rahman/
+   14  ls
+   15  rm cd
+   16  ls
+   17  cd A R Rehman/
+   18  rm -rf dir
+   19  ls
+   20  rm -rf cd
+   21  ls
+   22  mkdir M M Keeravani
+   23  mkdir Keeravani
+   24  ls
+   25  rmdir A R Rehman
+   26  ls
+   27  rmdir Keeravani
+   28  ls
+   29  rmdir M Rahman
+   30  ls
+   31  mkdir Rahman
+   32  ls
+   33  cd Rahman/
+   34  mkdir Vande Mataram
+   35  ls
+   36  rmdir Vande Mataram
+   37  mkdir VandeMataram
+   38  ls
+   39  mkdir Roja
+   40  ls
+   41  cd ..
+   42  tree
+   43  sudo snap install tree
+   44  sudo apt update
+   45  sudo apt install tree
+   46  tree
+   47  pwd
+   48  ls
+   49  music
+   50  dir music
+   51  mkdir dir ls
+   52  ls
+   53  rmdir dir ls
+   54  ls
+   55  cd ..
+   56  cd dir music
+   57  cd dir music/
+   58  cddir music/
+   59  tree
+   60  mkdir AshaBhomsle
+   61  ls
+   62  tree
+   63  rmdir Documents
+   64  tree
+   65  cd Music/
+   66  cd sharongarapati/
+   67  cd Music/
+   68  mkdir AshaBhomsle
+   69  ls
+   70  cd AshaBhomsle/
+   71  SongsOfMySoul
+   72  mkdir SongsOfMySoul
+   73  ls
+   74  mkdir AshaOnceMore
+   75  ls
+   76  cd ..
+   77  mkdir Keeravani
+   78  ls
+   79  cd Keeravani/
+   80  mkdir BahubaliTheBeginning
+   81  ls
+   82  mkdir RRR
+   83  ls
+   84  cd ..
+   85  tree
+   86  ls
+   87  cd Sharon-G-CATC-Project-
+   88  ls
+   89  vim sharonGarapati.txt
+   90  ls
+   91  git add sharonGarapati.txt
+   92  ls
+   93  git add sharonGarapati.txt
+   94  ls
+   95  vim sharonGarapati.txt
+   96  rm sharonGarapati.txt
+   97  ls
+   98  vim sharonGarapati.txt
+   99  ls
+  100  vim sharonGarapati.txt
+  101  ls
+  102  cd sharonGarapati.txt
+  103  clear
+  104  ls
+  105  vim sharonpGarapati.txt
+  106  ls
+  107  git add sharonpGarapati.txt
+  108  rm -f sharonGarapati.txt
+  109  ls
+  110  pwd
+  111  more file
+  112  rm -f sharonpGarapati.txt
+  113  clear
+  114  vim sharonGarapati.txt
+  115  ls
+  116  cd  Sharon-G-CATC-Project-
+  117  ls
+  118  vim sharonGarapati.txt
+  119  rm -f sharonGarapati.txt
+  120  rm -f sharonpGarapati.txt
+  121  ls
+  122  clear
+  123  vim sharonGarapati.txt
+  124  ~
+  125  vim sharonGarapati.txt
+  126  ls
+  127  git add sharonGarapati.txt
+  128  git commit -e "Created sharonGarapati.txt and added some content"
+  129  ls
+  130  git config --global user.name "sharonpgarapati"
+  131  git config --global user.email "sharonpgarapati@gmail.com"
+  132  ls
+  133  git add sharonGarapati.txt
+  134  git commit -m "Created sharonGarapati.txt and added some content"
+  135  git push
+  136  date
+  137  top command
+  138  top
+  139  uptime
+  140  Sun Apr 21 21:29:46 UTC 2024
+  141  date
+  142  cd sharonGarapati.txt
+  143  sharonGarapati.txt
+  144  ls
+  145  :e sharonGarapatireboot
+  146  :e sharonGarapati.txt
+  147  exit
+  148  reboot
+  149  clear
+  150  ls
+  151  cd  Sharon-G-CATC-Project-
+  152  ls
+  153  cd Sharon-G-CATC-Project-
+  154  ls
+  155  vim linuxCommands.sh
+  156  ~
+  157  q
+  158  ls
+  159  git add linuxCommands.sh
+  160  git commit -e "Created linuxCommands.sh and added some content"
+  161  git push
+  162  ls
+  163  git add linuxCommands.sh
+  164  git commit -m "Created linuxCommands.sh and added some content"
+  165  git push
+  166  ls
+  167  la
+  168  ls
+  169  clear
+  170  ls
+  171  ls -al
+  172  10. echo "================" >> sharonGarapati.txt
+  173  11. echo "hostname Command" >> sharonGarapati.txt
+  174  12. echo "================" >> sharonGarapati.txt
+  175  13. echo "" >> sharonGarapati.txt
+  176  14. hostname >> sharonGarapati.txt
+  177  15. echo "" >> sharonGarapati.txt
+  178  16. echo "============" >> sharonGarapati.txt
+  179  17. echo "arch Command" >> sharonGarapati.txt
+  180  18. echo "============" >> sharonGarapati.txt
+  181  19. echo "" >> sharonGarapati.txt
+  182  20. arch >> sharonGarapati.txt
+  183  21. echo "" >> sharonGarapati.txt
+  184  22. echo "========" >> sharonGarapati.txt
+  185  23. echo "uname -a" >> sharonGarapati.txt
+  186  24. echo "========" >> sharonGarapati.txt
+  187  25. echo "" >> sharonGarapati.txt
+  188  26. uname -a >> sharonGarapati.txt
+  189  27. echo "" >> sharonGarapati.txt
+  190  28. echo "===============" >> sharonGarapati.txt
+  191  29. echo " uptime Command" >> sharonGarapati.txt
+  192  30. echo "===============" >> sharonGarapati.txt
+  193  31. echo "" >> sharonGarapati.txt
+  194  32. uptime >> sharonGarapati.txt
+  195  33. echo "" >> sharonGarapati.txt
+  196  34. echo "==============" >> sharonGarapati.txt
+  197  35. echo "whoami Command" >> sharonGarapati.txt
+  198  36. echo "==============" >> sharonGarapati.txt
+  199  37. echo "" >> sharonGarapati.txt
+  200  38. whoami >> sharonGarapati.txt
+  201  39. echo "" >> sharonGarapati.txt
+  202  40. echo "===========" >> sharonGarapati.txt
+  203  41. echo "who Command" >> sharonGarapati.txt
+  204  42. echo "===========" >> sharonGarapati.txt
+  205  43. echo "" >> sharonGarapati.txt
+  206  44. who >> sharonGarapati.txt
+  207  45. echo "" >> sharonGarapati.txt
+  208  46. echo "=========" >> sharonGarapati.txt
+  209  47. echo "w Command" >> sharonGarapati.txt
+  210  48. echo "=========" >> sharonGarapati.txt
+  211  49. echo "" >> sharonGarapati.txt
+  212  50. w >> sharonGarapati.txt
+  213  51. echo "" >> sharonGarapati.txt
+  214  52. echo "===========" >> sharonGarapati.txt
+  215  53. echo "top Command" >> sharonGarapati.txt
+  216  54. echo "===========" >> sharonGarapati.txt
+  217  55. echo "" >> sharonGarapati.txt
+  218  56. top >> sharonGarapati.txt
+  219  57. echo "" >> sharonGarapati.txt
+  220  58. echo "===============" >> sharonGarapati.txt
+  221  59. echo "history Command" >> sharonGarapati.txt
+  222  60. echo "===============" >> sharonGarapati.txt
+  223  61. echo "" >> sharonGarapati.txt
+  224  62. history >> sharonGarapati.txt
+  225  63. echo "" >> sharonGarapati.txt
+  226  64. echo "End of the Script" >> sharonGarapati.txtclear
+  227  clear
+  228  vim linuxCommands.sh
+  229  clear
+  230  ls
+  231  cd SGCATCProject
+  232  vim sharonGarapati.txt
+  233  vim linusCommands.sh
+  234  ls
+  235  vim sharonGarapati.txt
+  236  git config --global user.name "SGCATCProject"
+  237  git config --global user.email "sharonpgarapati@gmail.com"
+  238  git add linusCommands.sh
+  239  git commit -m "Created linusCommands.sh and added some content"
+  240  git push
+  241  ls
+  242  vim sharonGarapati.txt
+  243  ls -al
+  244  vim linusCommands.sh
+  245  vim sharonGarapati.txt
+  246  ls
+  247  cd SGCATCProject
+  248  ls
+  249  vim sharonGarapati.txt
+  250  vim linusCommands.sh
+  251  vim sharonGarapati.txt
+  252  cd
+  253  cd Sharon-G-CATC-Project-
+  254  ls
+  255  vim sharonGarapati7.txt
+  256  git add sharonGarapati7.txt
+  257  git commit -m "Did part of Assignment"
+  258  git push
+  259  git pull
+  260  git add sharonGarapati7.txt
+  261  git pull
+  262  git add sharonGarapati7.txt
+  263  git commit -m "Changed name"
+  264  git restore sharonGarapati7.txt
+  265  git add sharonGarapati7.txt
+  266  git commit -m "Restored for project"
+  267  git pull
+  268  git commit -m "Restored for project"
+  269  clear
+  270  ls
+  271  vim sharonGarapati7.txt
+  272  git add sharonGarapati7.txt
+  273  git commit -m "Restored for project"
+  274  On branch main
+  275  Your branch and 'origin/main' have diverged,
+  276  and have 2 and 5 different commits each, respectively.
+  277  Changes not staged for commit:
+  278  Untracked files:
+  279  no changes added to commit (use "git add" and/or "git commit -a")
+  280  git pull
+  281  clear
+  282  ls
+  283  git add sharonPGarapati.txt
+  284  git commit -m "Restored for project"
+  285  git push
+  286  git pull
+  287  git commit -m "Restored for project"
+  288  git pull
+  289  ls
+  290  git add sharonGarapati7.txt
+  291  git commit -m "Restored for project"
+  292  cd
+  293  ls
+  294  cd SGCATCProject
+  295  ls
+  296  vim sharonGarapati.txt
+  297  sharongarapati@SharonGarapatiCATC:~$ ls
+  298  SGCATCProjectsharongarapati@SharonGarapatiCATC:~$ cd SGCATCProject
+  299  sharongarapati@SharonGarapatiCATC:~$ cd SGCATCProject
+  300  clear
+  301  ls
+  302  vim linusCommands.sh
+  303  vim sharonGarapati.txt
+  304  git add sharonGarapati.txt
+  305  git commit -m "Created for project"
+  306  git push
+  307  clear
+  308  ls
+  309  cd
+  310  ls
+  311  cd Sharon-G-CATC-Project-
+  312  ls
+  313  git add sharonGarapati7.txt
+  314  git commit -m "Restored for project"
+  315  cd
+  316  rm -r  SGCATCProject
+  317  ls
+  318  git add sharonGarapati7.txt
+  319  ls
+  320  cd Sharon-G-CATC-Project-
+  321  git add sharonGarapati7.txt
+  322  git commit -m "Restored for project"
+  323  git pull
+  324  git commit -m "Restored for project"
+  325  git commit -m
+  326  git commit -m "Restored for project"
+  327  git add
+  328  git add sharonGarapati7.txt
+  329  git pull
+  330  git push
+  331  git pull
+  332  git push
+  333  git rebase --abort
+  334  git --abort
+  335  git pull
+  336  git add
+  337  git add sharonGarapati7.txt
+  338  git stash save sharonGarapati7.txt
+  339  git pull -r sharonGarapati7.txt
+  340  git stash pop sharonGarapati7.txt
+  341  git stash save sharonGarapati7.txt
+  342  git stash apply sharonGarapati7.txt
+  343  ls
+  344  git add
+  345  git add sharonGarapati7.txt
+  346  git commit -m "Restored for project"
+  347  git pull
+  348  git add sharonGarapati7.txt
+  349  git push
+  350  git pull -r
+  351  ls
+  352  rm -f  sharonGarapati.txtclear
+  353  ls
+  354  rm -fsharonPGarapati.txt
+  355  rm -f sharonPGarapati.txt
+  356  ls
+  357  rm -f sharonGarapati.txt
+  358  ls
+  359  git add sharonGarapati7.txt
+  360  git commit -m "Restored for project"
+  361  rm -f .linuxCommands.sh.swp
+  362  rm -f .sharonGarapati.txt.swn
+  363  rm -f .sharonGarapati.txt.swo
+  364  rm -f .sharonpGarapati.txt.swp
+  365  rm -f sharonGarapati.txtclear
+  366  ls
+  367  clear
+  368  ls
+  369  git add sharonGarapati7.txt
+  370  git commit -m "Restored for project"
+  371  Fix them up in the work tree, and then use 'git add/rm <file>'
+  372  vim  sharonGarapati.txt
+  373  ls
+  374  vim sharonGarapati7.txt
+  375  git add sharonGarapati7.txt
+  376  git commit -m "Created for project"
+  377  git pull
+  378  vim sharonGarapati7.txt
+  379  git diff
+  380  git stash
+  381  git pull
+  382  git reset --hard HEAD
+  383  pull
+  384  git pull
+  385  git status
+  386  ls
+  387  vim sharonGarapati.txt
+  388  vim  sharonGarapati7.txt
+  389  vim sharonGarapati.txtsharonPGarapati.txt
+  390  vim sharonPGarapati.txt
+  391  rm sharonPGarapati.txt
+  392  ls
+  393  rm sharonGarapati7.txt
+  394  ls
+  395  git pull
+  396  git pull --autostash
+  397  vim sharonGarapati.txt
+  398  ls
+  399  vim  linuxCommands.sh
+  400  clear
+  401  ls
+  402  vim linuxCommands.sh
+  403  vim sharonGarapati.txt
+  404  git add sharonGarapati.txt
+  405  git commit -m "Created sharonGarapati.txt and added some content"
+  406  git push
+  407  vim linuxCommands.sh
+  408  vim sharonGarapati.txt
+  409  history
 
 [?1l>[64;1H
 [?12l[?25h[K
