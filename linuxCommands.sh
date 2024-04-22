@@ -1,12 +1,12 @@
-  # Sharon Garapati
-  # A shell script that automates execution of below commands and outputs the result into a text file.
-  echo "" > sharonGarapati.txt
-  echo "============" >> sharonGarapati.txt
-  echo "date Command" >> sharonGarapati.txt
-  echo "============" >> sharonGarapati.txt
-  echo "" >> sharonGarapati.txt
-  date >> sharonGarapati.txt
-  echo "" >> sharonGarapati.txt
+ # Sharon Garapati
+ # A shell script that automates execution of below commands and outputs the result into a text file.
+ echo "" > sharonGarapati.txt
+ echo "============" >> sharonGarapati.txt
+ echo "date Command" >> sharonGarapati.txt
+ echo "============" >> sharonGarapati.txt
+ echo "" >> sharonGarapati.txt
+ date >> sharonGarapati.txt
+ echo "" >> sharonGarapati.txt
  echo "================" >> sharonGarapati.txt
  echo "hostname Command" >> sharonGarapati.txt
  echo "================" >> sharonGarapati.txt
