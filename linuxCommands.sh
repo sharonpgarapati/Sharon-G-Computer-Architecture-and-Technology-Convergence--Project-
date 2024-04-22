@@ -2,7 +2,7 @@
 
  1. # Sharon Garapati
  2. # A shell script that automates execution of below commands and outputs the result into a text file.
- 3. echo "" >> sharonGarapati.txt
+ 3. echo "" > sharonGarapati.txt
  4. echo "============" >> sharonGarapati.txt
  5. echo "date Command" >> sharonGarapati.txt
  6. echo "============" >> sharonGarapati.txt
