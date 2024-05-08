@@ -54,7 +54,7 @@ main() {
     # Generate and display salary scale
     echo "Salary Scale Table:"
     echo "-------------------"
-    calculate_salary_scale £starting_salary £points £increment £is_manager
+    salary_scale_table £starting_salary £points £increment £is_manager
 }
 
 # Execute main function
