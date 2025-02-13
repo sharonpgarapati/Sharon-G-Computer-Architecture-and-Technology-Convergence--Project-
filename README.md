@@ -26,4 +26,11 @@ License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
 
+Resources and References
+
+- [Academo Logic Gate Simulator](https://academo.org/demos/logic-gate-simulator/)
+- Linux command manual pages (access via `man <command>`)
+- Online references for two's complement arithmetic and binary addition
+
+
 
