@@ -1,0 +1,25 @@
+#!/bin/bash
+# Script to create a .gitignore file for the shell assignment
+
+cat << 'EOF' > .gitignore
+# Ignore output file from shell scripts
+firstnameSurname.txt
+
+# Ignore temporary and log files
+*.tmp
+*.log
+*~
+
+# Ignore backup files
+*.bak
+
+# Ignore Vim swap and backup files
+*.swp
+*.swo
+
+# Ignore macOS system files
+.DS_Store
+
+EOF
+
+echo ".gitignore file created successfully."
