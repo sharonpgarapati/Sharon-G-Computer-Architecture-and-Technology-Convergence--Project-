@@ -1,11 +1,11 @@
-# Sharon-G-CATC-Project-
+# Sharon-G-Computer Architecture and Technology Convergence-Project-
 
 Author: Sharon P Garapati
 
 Email: G00438803@atu.ie
 
 Computer Architecture and Technology Convergence Project (Assignment)
-[ATU January 2024 - 1 Semester]
+[ATU January 2024 - Semester 1]
 
 
 
